@@ -1,3 +1,3 @@
 # hello-world
 My First Repository
-A bit about me
+Controls Technician at VG LNG. 
